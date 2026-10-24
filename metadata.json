@@ -1,0 +1,6 @@
+{
+  "name": "Autonomous CyberOSINT Workstation",
+  "description": "Next-generation Autonomous CyberOSINT Investigation Workstation featuring multi-agent orchestration, interactive chain of thought, live tool execution approval, verified artifacts ledger, and auto-scrolling telemetry terminal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
